@@ -1,0 +1,69 @@
+body {
+  background-color: #ffffff;
+  font-family: "Raleway", sans-serif;
+  margin: 20px;
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#title {
+  margin: 10px;
+  padding: 10px;
+  border: solid 0.5px grey;
+  color: #81ff5b;
+  border-radius: 25px;
+  width: 500px;
+}
+#intro {
+  border: solid 0.5px grey;
+  border-radius: 25px;
+  color: #81ff5b;
+  width: 800px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+#show {
+  color: #81ff5b;
+  width: 800px;
+  margin: 10px;
+  padding: 10px;
+  text-align: center;
+}
+.completedProgressbar {
+  width: 100%;
+  background-color: #ddd;
+}
+#myBar {
+  width: 10%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+#myBar1 {
+  width: 10%;
+  height: 30px;
+  background-color: #4CAF50;
+  text-align: center;
+  line-height: 30px;
+  color: white;
+}
+#displayCode {
+  display: flex;
+  justify-content: center;
+  border: solid 0.5px black;
+  padding: 10px;
+}
+#tutorial {
+  display: flex;
+    flex-direction: column;
+    align-items: center;
+  width: 700px;
+}
+#line {
+  border: solid 0.5px grey;
+  width: 600px;
+}
+
